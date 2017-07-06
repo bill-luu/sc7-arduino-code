@@ -1110,5 +1110,3 @@ void loop() {
   // Reset canErrorFlags after each loop.
   state.canErrorFlags = 0;
 }
-
-
